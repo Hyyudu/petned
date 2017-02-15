@@ -1,0 +1,19 @@
+.title  {font-weight: bold; font-size: 1.2em;}
+.username,  .email {font-style: italic;}
+.msg_text   {margin-bottom: 30px;}
+#send_error {font-weight: bold; color: red;}
+#splash {
+    display: none;
+    background-color: #afa;
+    border-radius: 60px;
+    font-weight: bold;
+    left: 13%;
+    margin: 40px auto;
+    padding: 40px 20%;
+    position: absolute;
+    text-align: center;
+    top: 0;
+}
+
+.status1 {background-color: #BFB;}
+.status2 {background-color: #EEE; color: #888;}
